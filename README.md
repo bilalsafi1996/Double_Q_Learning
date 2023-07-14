@@ -1,5 +1,5 @@
 
-# Implentation of Double Q-Learning Algorithm
+# Implementation of Double Q-Learning Algorithm
 
 This repository contains an implementation of the Double Q-Learning algorithm for solving the Cliff Walking problem.
 
