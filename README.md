@@ -17,6 +17,8 @@ Make sure you have the following libraries installed:
 - numpy
 - matplotlib
 
+Please note that no other external libraries (e.g., sklearn, tensorflow, keras) were allowed or used in accordance with the task requirements.
+
 # Results
 The provided code includes an analysis of the training results, including plots of the number of steps and total reward per episode over time. The results show that the agent gradually improves its performance and learns an optimal policy to navigate the Cliff Walking environment.
 
